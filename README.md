@@ -1,8 +1,8 @@
-🧹 Linux Cleaner
+# Linux Cleaner
 
 Um script simples em Bash para realizar uma limpeza básica do sistema em distribuições baseadas no Debian.
 
-✨ Funcionalidades
+# Funcionalidades
 
 * 🧹 Limpa o cache do APT
 * ♻️ Remove arquivos de pacotes antigos
@@ -10,7 +10,7 @@ Um script simples em Bash para realizar uma limpeza básica do sistema em distri
 * 🗑️ Esvazia a lixeira do usuário
 * 🧹 Limpa arquivos temporários do /tmp
 
-🚀 Instalação
+ # Instalação
 
 Clone o repositório:
 
@@ -21,7 +21,7 @@ Dê permissão de execução ao script:
 
 chmod +x cleaner.sh
 
-▶️ Uso
+# Uso
 
 Execute:
 
@@ -29,13 +29,13 @@ Execute:
 
 O script usará sudo quando necessário.
 
-🛠️ Requisitos
+# Requisitos
 
 * Bash
 * APT
 * Debian ou outra distribuição baseada em Debian
 
-⚠️ Aviso
+# Aviso
 
 O script remove arquivos da lixeira e arquivos temporários. Use por sua conta e risco e revise o código antes de executar qualquer script.
 
